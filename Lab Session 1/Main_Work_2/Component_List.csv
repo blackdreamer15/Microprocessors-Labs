@@ -1,0 +1,6 @@
+﻿Name,Quantity,Component
+"DredLED_2, DredLED_1",2,"Red LED"
+"DgreenLED_2, DgreenLED_1",2,"Green LED"
+"DyellowLED_1, DyellowLED_2",2,"Yellow LED"
+"UArduino UNO R3 Board",1," Arduino Uno R3"
+"R5, R6, R7",3,"220 kΩ Resistor"
