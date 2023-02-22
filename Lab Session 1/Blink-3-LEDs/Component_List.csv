@@ -1,6 +1,0 @@
-﻿Name,Quantity,Component
-"U1",1," Arduino Uno R3"
-"R1, R2, R3",3,"220 Ω Resistor"
-"DredLED",1,"Red LED"
-"DgreenLED",1,"Green LED"
-"DyellowLED",1,"Yellow LED"
